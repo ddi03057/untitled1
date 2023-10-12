@@ -1,0 +1,10 @@
+
+l
+java:S1192"ODefine a constant instead of duplicating this literal "score[%d]:%d%n" 3 times.(µº¼ 8à©ê§µ0
+c
+java:S3973"HUse indentation to denote the code conditionally executed by this "for".(øÌÙŒûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(µº¼ 
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ìÇ€Ù
+N	java:S106"9Replace this use of System.out or System.err by a logger.(áÄ³Ð
+S	java:S106"9Replace this use of System.out or System.err by a logger.(è‰ÐÒÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‰ —ˆ

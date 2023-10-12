@@ -1,0 +1,7 @@
+
+_
+java:S3973"IUse indentation to denote the code conditionally executed by this "else".(ÔÍØ
+@
+java:S1481"+Remove this unused "isTall" local variable.(¢­
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÆŠ¼Òúÿÿÿÿ
+N	java:S106	"9Replace this use of System.out or System.err by a logger.(¤˜¡¼

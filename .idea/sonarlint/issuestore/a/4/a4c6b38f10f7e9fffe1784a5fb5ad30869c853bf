@@ -1,0 +1,11 @@
+
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Û ¯™
+R
+java:S1854
+"7Remove this useless assignment to local variable "sum".( –ÍÈÿÿÿÿÿ
+C
+java:S1481
+"(Remove this unused "sum" local variable.( –ÍÈÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(™„“Å
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ƒ®Õ’8ƒÕ´ù´0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ŒÕÅµýÿÿÿÿ8„Õ´ù´0

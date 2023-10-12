@@ -1,0 +1,17 @@
+
+w
+java:S1488"\Immediately return this expression instead of assigning it to the temporary variable "bArr".(ûŒÉúÿÿÿÿ
+w
+java:S1488"\Immediately return this expression instead of assigning it to the temporary variable "nArr".(¾êÉ şÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(•ôÛÏøÿÿÿÿ
+6
+java:S2129	" Remove this "String" constructor(Æé‡æ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(íú‡Û
+;
+java:S2129" Remove this "String" constructor(­Ëˆıÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(’±İú
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ã¢¦î8‰¿·îÀ0
+2
+java:S1116"Remove this empty statement.(ã¢¦î
+M
+java:S1172"0Remove this unused method parameter "nArrprint".(Ãşö°8õ™¸îÀ0

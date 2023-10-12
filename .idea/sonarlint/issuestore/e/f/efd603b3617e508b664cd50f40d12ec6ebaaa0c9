@@ -1,0 +1,28 @@
+
+P
+java:S1854"5Remove this useless assignment to local variable "i".(–àóÿÿÿÿÿ
+M
+java:S1854"7Remove this useless assignment to local variable "str".(ã¿ùò
+L
+java:S1854"6Remove this useless assignment to local variable "ff".(º¹šŸ
+Q
+java:S1854"6Remove this useless assignment to local variable "dd".(àËùùÿÿÿÿ
+X
+java:S1854"=Remove this useless assignment to local variable "isMarried".(‡Áıúÿÿÿÿ
+I
+java:S1481".Remove this unused "isMarried" local variable.(¶¿‰şÿÿÿÿ
+>
+java:S1481"(Remove this unused "str" local variable.(ã¿ùò
+A
+java:S1481"&Remove this unused "i" local variable.(–àóÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(í Âõøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‹ˆ‰Óüÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ô·›¶
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¹šë€ûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¿Ëöúúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(êğ»ıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(âùÏ=8éÉü´0
+H
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ

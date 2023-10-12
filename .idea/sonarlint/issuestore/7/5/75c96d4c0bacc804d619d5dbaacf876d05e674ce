@@ -1,0 +1,9 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Õ©æÎÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(†Ç‚´
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¶ù²Š
+k	java:S116"VRename this field "animal_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×óôø
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(‘ÑÓí
+N	java:S106*"9Replace this use of System.out or System.err by a logger.(áŠ¾€
+N	java:S1065"9Replace this use of System.out or System.err by a logger.(Ò¢¬‰
+S	java:S106:"9Replace this use of System.out or System.err by a logger.(ºïŠ€üÿÿÿÿ

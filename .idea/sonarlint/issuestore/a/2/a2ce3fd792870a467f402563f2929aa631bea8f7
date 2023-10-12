@@ -1,0 +1,12 @@
+
+R
+java:S1191"5Use classes from the Java API instead of Sun classes.(Ï¥¯ö8íÏ•çÀ0
+T
+java:S1226">Introduce a new variable instead of reusing the parameter "k".(Ã„™Õ
+N	java:S106	"9Replace this use of System.out or System.err by a logger.(“”Ÿ™
+S	java:S106
+"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(´‹¹öþÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ú½ê¢
+Y
+java:S1128"<Remove this unused import 'com.sun.deploy.util.StringUtils'.(Ï¥¯ö8ÂÒœçÀ0

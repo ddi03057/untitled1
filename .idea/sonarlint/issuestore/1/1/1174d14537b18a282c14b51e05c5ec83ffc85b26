@@ -1,0 +1,19 @@
+
+a
+java:S1192"FDefine a constant instead of duplicating this literal "three" 3 times.(¶­»ƒÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ıÎÌİ
+<	java:S131""Add a default case to this switch.(Ÿöÿöıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ë—âÁúÿÿÿÿ
+S	java:S106	"9Replace this use of System.out or System.err by a logger.(İ Òúúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¶­»ƒÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(í«»ûÿÿÿÿ
+<	java:S131""Add a default case to this switch.(â×•úÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ë—âÁúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(İ Òúúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¶­»ƒÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ò™£Ğÿÿÿÿÿ
+<	java:S131""Add a default case to this switch.(—ÂÙÒøÿÿÿÿ
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(Ë—âÁúÿÿÿÿ
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(İ Òúúÿÿÿÿ
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(¶­»ƒÿÿÿÿÿ
+Q	java:S125+"<This block of commented-out lines of code should be removed.(Œİàë

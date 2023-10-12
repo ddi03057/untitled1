@@ -1,0 +1,20 @@
+
+K
+java:S1854"5Remove this useless assignment to local variable "j".(‰æ´ê
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ö·À–ûÿÿÿÿ
+D
+java:S2140")Use "java.util.Random.nextInt()" instead.(ô€«Šşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ñ·™¶ÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ş‰™
+S	java:S106"9Replace this use of System.out or System.err by a logger.(œöéŞøÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‚ëëò
+M	java:S106"9Replace this use of System.out or System.err by a logger.(§Š“c
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÇÔ«×øÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.( ãÖüÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ƒôö™
+<
+java:S1481"&Remove this unused "j" local variable.(‰æ´ê
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ø¡®®øÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+h	java:S100""NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü§úÿÿÿÿ
+N	java:S106'"9Replace this use of System.out or System.err by a logger.(î®“

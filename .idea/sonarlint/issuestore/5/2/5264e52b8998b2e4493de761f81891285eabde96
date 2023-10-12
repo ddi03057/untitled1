@@ -1,0 +1,25 @@
+
+X
+java:S1854"6Remove this useless assignment to local variable "s3".(İ³Àíşÿÿÿÿ8ÀòÑ÷³0
+X
+java:S1854"6Remove this useless assignment to local variable "s2".(“¦‡Æúÿÿÿÿ8ÀòÑ÷³0
+S
+java:S1854"6Remove this useless assignment to local variable "s1".(´ÆÍÑ8ÀòÑ÷³0
+P
+java:S1854"5Remove this useless assignment to local variable "e".(ŒˆÆ¾şÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(æ¨¤šøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(š—°øÿÿÿÿ
+N	java:S106	"9Replace this use of System.out or System.err by a logger.(Áß‡Ü
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¯ô¢ô
+A
+java:S1481"&Remove this unused "e" local variable.(ŒˆÆ¾şÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Î…ÔÚ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(€„µ
+D
+java:S1481"'Remove this unused "s1" local variable.(´ÆÍÑ8ÃòÑ÷³0
+I
+java:S1481"'Remove this unused "s2" local variable.(“¦‡Æúÿÿÿÿ8ÃòÑ÷³0
+B
+java:S2129" Remove this "String" constructor(İ³Àíşÿÿÿÿ8ÄòÑ÷³0
+I
+java:S1481"'Remove this unused "s3" local variable.(İ³Àíşÿÿÿÿ8ÄòÑ÷³0

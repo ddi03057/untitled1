@@ -1,0 +1,23 @@
+
+W
+java:S4973"<Strings and Boxed types should be compared using "equals()".(ÓÃô¶úÿÿÿÿ
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Çµí‘
+V	java:S125"<This block of commented-out lines of code should be removed.(ä’üÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ü¥—„üÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(´°å²ıÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(£µæì
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Å½æÉ
+<
+java:S1905"&Remove this unnecessary cast to "int".(Å½æÉ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ğ¨°Ò
+N	java:S106"9Replace this use of System.out or System.err by a logger.(œòÓş
+S	java:S106"9Replace this use of System.out or System.err by a logger.(çŸ›”üÿÿÿÿ
+B
+java:S1125"'Remove the unnecessary boolean literal.(çŸ›”üÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÓÃô¶úÿÿÿÿ
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(‚¨Ö§
+Q	java:S125!"<This block of commented-out lines of code should be removed.(Ÿå¡ª
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(†ºêÆıÿÿÿÿ
+N	java:S1065"9Replace this use of System.out or System.err by a logger.(Æ†•‹
+U	java:S106<"9Replace this use of System.out or System.err by a logger.(¾”¿è8ü—ş„½0

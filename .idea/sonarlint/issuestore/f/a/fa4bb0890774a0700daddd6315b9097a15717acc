@@ -1,0 +1,24 @@
+
+V
+java:S1854";Remove this useless assignment to local variable "result2".(¤Ì¦Þÿÿÿÿÿ
+G
+java:S1481",Remove this unused "result2" local variable.(¤Ì¦Þÿÿÿÿÿ
+l
+java:S3457	"Q%n should be used in place of \n to produce the platform-specific line separator.(îáË¹ÿÿÿÿÿ
+S	java:S106	"9Replace this use of System.out or System.err by a logger.(îáË¹ÿÿÿÿÿ
+V	java:S125	"<This block of commented-out lines of code should be removed.(îáË¹ÿÿÿÿÿ
+g
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(†ÿûÈ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(†ÿûÈ
+l
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(¸Êûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¸Êûÿÿÿÿ
+l
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(œ£Æ­þÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(œ£Æ­þÿÿÿÿ
+l
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(Éš‰ßûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Éš‰ßûÿÿÿÿ
+g
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(áô—í
+N	java:S106"9Replace this use of System.out or System.err by a logger.(áô—í
